@@ -1,0 +1,1 @@
+holbertonschool-shell repo is a workspace for developing and storing shell scripts to be executed in a Bash terminal. In this repository, I'll be honing my skills in shell scripting, creating scripts to automate tasks, manage files and directories, and interact with the command-line environment.
