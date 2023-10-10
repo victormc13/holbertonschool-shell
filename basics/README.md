@@ -24,7 +24,7 @@
 
 # 6-firstdirectory
 
-6-firstdirectory: script that creates a directory named 'my_first_directory' in `/tmp/` directory
+6-firstdirectory: script that creates a directory named `my_first_directory` in `/tmp/` directory
 
 # 7-movethatfile
 
