@@ -17,3 +17,7 @@
 # 4-empty 
 
 4-empty: script that creates an empty file called `hello`
+
+# 5-execute
+
+5-execute: script that adds execute permission to the owner of the file `hello`
