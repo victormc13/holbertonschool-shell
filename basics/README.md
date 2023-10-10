@@ -38,4 +38,7 @@
 
 9-firstdirdeletion: script that deletes the `my_first_directory` directory that is in the `/tmp` directory
 
+# 10-back
+
+10-back: script that changes the working directory to the previous one
 
