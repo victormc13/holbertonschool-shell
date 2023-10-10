@@ -14,4 +14,8 @@
 
 3-listfiles: script that display current directory contents in a long format
 
+# 4-listmorefiles
+
+4-listmorefiles: script that display current directory contents, including hidden files (starting with `.`). Uses the long format
+
 
