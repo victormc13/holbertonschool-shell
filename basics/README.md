@@ -62,3 +62,6 @@
 
 15-lets_move: script that moves all files beginning with an uppercase letter to the directory `/tmp/u`.
 
+# 16-clean_emacs
+
+16-clean_emacs: script that deletes all files in the current working directory that end with the character `~`.
