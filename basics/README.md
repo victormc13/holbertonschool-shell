@@ -30,4 +30,8 @@
 
 7-movethatfile: script that moves the file `betty` from `/tmp/` to `/tmp/my_first_directory`
 
+# 8-firstdelete
+
+8-firstdelete: script that deletes the `betty` file from `/tmp/my_first_directory` directory
+
 
