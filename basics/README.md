@@ -34,4 +34,8 @@
 
 8-firstdelete: script that deletes the `betty` file from `/tmp/my_first_directory` directory
 
+# 9-firstdirdeletion
+
+9-firstdirdeletion: script that deletes the `my_first_directory` directory that is in the `/tmp` directory
+
 
