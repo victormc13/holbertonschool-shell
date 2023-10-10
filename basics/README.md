@@ -65,3 +65,7 @@
 # 16-clean_emacs
 
 16-clean_emacs: script that deletes all files in the current working directory that end with the character `~`.
+
+# 17-tree
+
+17-tree: script that creates the directories `welcome/` `welcome/to/` and `welcome/to/school` in the current directory.
