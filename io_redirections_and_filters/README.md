@@ -13,3 +13,7 @@
 # 3-twofiles
 
 3-twofiles: script that displays the content of `/etc/passwd` and `/etc/hosts`
+
+# 4-lastlines
+
+4-lastlines: script that displays the last 10 lines of `/etc/passwd`
