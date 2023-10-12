@@ -1,2 +1,2 @@
 #!/bin/bash
-passwd -d -S
+cut -d
