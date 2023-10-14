@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d$'\n' -f "$1", "$((2 * N))" "$2"
+grep -n '^' "$1" | paste -d'\n' - - | cut -f1,3
