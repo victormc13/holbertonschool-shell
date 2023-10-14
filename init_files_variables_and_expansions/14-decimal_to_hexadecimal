@@ -1,2 +1,2 @@
 #!/bin/bash
-printf -e "%X\n" $DECIMAL
+printf "%X" $DECIMAL | echo 
