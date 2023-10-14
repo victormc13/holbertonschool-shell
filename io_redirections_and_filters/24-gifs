@@ -1,2 +1,0 @@
-#!/bin/bash
-find -type f -iname "*.gif" -exec echo {} + | tr '.' '\n' | tr -d '"' | sort -f | paste -s -d'\n' -
