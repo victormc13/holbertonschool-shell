@@ -1,2 +1,2 @@
 #!/bin/bash
-read -r line | echo "$line" | read -r line
+grep -n '^' "$1" | cut -d: -f2-
