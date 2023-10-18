@@ -1,2 +1,0 @@
-#!/bin/bash
-grep -n '^' "$1" | paste -d'\n' - - | cut -f1,3
